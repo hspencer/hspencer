@@ -1,6 +1,6 @@
 ### ¡Hola! 👋
 
-Mi nombre es **Herbert Spencer**, soy diseñador de interacción y profesor en la e[ad] Escuela de Arquitectura y Diseño ([@eadpucv](http://github.com/eadpucv)) e investigador del Núcleo de Accesibilidad e Inclusión ([@accesibilidad-inclusion](http://github.com/accesibilidad-inclusion)).
+Mi nombre es **Herbert Spencer**, soy diseñador de interacción, profesor en la e[ad] Escuela de Arquitectura y Diseño ([@eadpucv](http://github.com/eadpucv)) e investigador del Núcleo de Accesibilidad e Inclusión ([@accesibilidad-inclusion](http://github.com/accesibilidad-inclusion)).
 
 Mi interés de investigación está en la relación ser humano - tecnología con enfoque en la accesibilidad y el diseño universal. Pienso en la tecnología como herramienta de conexión humana, de colaboración y deliberación. Por esto, intento que todos los proyectos en los que trabajo permanezcan de **código abierto**.
 

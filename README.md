@@ -6,7 +6,7 @@ Mi interés de investigación está en la relación ser humano - tecnología con
 
 ![código abierto](https://img.shields.io/badge/opensource-code--always--available-blue)
 
-Actualmente estoy trabajando en el proyecto [PICTOS](http://pictos-cl) para hacer los servicios más accesibles.
+Actualmente estoy trabajando en el proyecto [PICTOS](http://pictos.cl) para hacer los servicios más accesibles.
 
 &rarr; ver mi [perfil académico](https://wiki.ead.pucv.cl/Herbert_Spencer)
 

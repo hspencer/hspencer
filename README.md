@@ -10,7 +10,8 @@ Actualmente estoy haciendo un doctorado basado en la praxis, en la Universidad T
 
 El sistema se estructura en tres niveles. En el primer nivel, me concentro en potenciar la agencia comunicativa a través de la aplicación de pictogramas en entornos de comunicación aumentativa y alternativa (CAA). El segundo nivel consiste en el desarrollo de un metamodelo generativo que, mediante el uso de un LLM especializado en SVG, transforma entradas textuales en representaciones pictográficas estructuradas. En el tercer nivel, establezco una plataforma colaborativa de código abierto que incorpora aprendizaje federado, permitiendo la integración de aportaciones de distintas comunidades y la adaptación continua del sistema.
 
-&rarr; ver mi [perfil académico](https://wiki.ead.pucv.cl/Herbert_Spencer) y mi página personal es [doble página](https://herbertspencer.net).
+&rarr; ver mi [perfil académico](https://wiki.ead.pucv.cl/Herbert_Spencer) y mi página personal es [doble página](https://herbertspencer.net).<br>
+&rarr; <a rel="me" href="https://bloom.surf/@hspencer">Mastodon</a>
 
 <!--
 **hspencer/hspencer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

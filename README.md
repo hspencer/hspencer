@@ -1,4 +1,6 @@
-### ¡Hola! 👋
+### ¡Hola! 
+
+![Herbert](https://herbertspencer.net/assets/uploads/2025/05/hspencer.jpg)
 
 Mi nombre es **Herbert Spencer**, soy diseñador de interacción, profesor en la e[ad] Escuela de Arquitectura y Diseño ([@eadpucv](http://github.com/eadpucv)) e investigador del Núcleo de Accesibilidad e Inclusión ([@accesibilidad-inclusion](http://github.com/accesibilidad-inclusion)).
 
